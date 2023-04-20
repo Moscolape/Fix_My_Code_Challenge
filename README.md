@@ -6,9 +6,9 @@ solutions. I'm not coding anything new, just fixing the existing code base.
 This was a project provided by ALX in which I was challenged with debugging 
 various programs. The challenges spanned a variety of programming languages 
 from C to Python to Javascript to Ruby and more, some of which I was familiar 
-with, others of which I was not. The specific list of projects contained follows:
+with, others of which I was not. The specific list of projects contained here are as follows;
 
-* [0x00. Fix my code](./0x00-challenge)
+* [0x00. Fix my code](./0x01-challenge)
 
 ## Author🖊️:
 * **[Chukwunenye Moses](https://chukwunenyemoses.netlify.app)** <[Moscolape](https://github.com/Moscolape)>
